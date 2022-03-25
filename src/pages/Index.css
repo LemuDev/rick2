@@ -1,0 +1,13 @@
+.grid-Cards{
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+
+
+.w-400{
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+}
